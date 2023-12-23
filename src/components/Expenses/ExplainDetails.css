@@ -16,13 +16,13 @@
 .expense-details h3 {
   font-size: 1.25rem;
   margin: 0;
-  margin-left: 4rem;
+  margin-left: 3em;
 }
 
 .expense-location {
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
-  margin-left: 6rem;
+  margin-left: 4rem;
   color: white;
 }
 
@@ -33,5 +33,5 @@
   border: 1px solid white;
   padding: 0.5rem;
   border-radius: 12px;
-  margin-left: auto;
+  margin-right: 4rem;
 }
