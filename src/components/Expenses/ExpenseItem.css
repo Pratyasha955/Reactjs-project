@@ -9,3 +9,16 @@
   background-color: #4b4b4b;
   color: white;
 }
+
+.expense-list-item button {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.expense-list-item button:hover {
+  background-color: #ff3333;
+}
